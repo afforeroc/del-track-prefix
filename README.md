@@ -4,11 +4,11 @@ Script tool that removes the most common track number prefixes for sound files
 ## Run
 1. For CMD on Windows
 ```
-bash zdelpt.sh
+bash remtrackprefix.sh
 ```
 2. For Terminal on Linux
 ```
-sh zdelpt.sh
+sh remtrackprefix.sh
 ```
 
 ## Results table
