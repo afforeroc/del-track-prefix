@@ -8,7 +8,7 @@ bash zdelpt.sh
 ```
 2. For Terminal on Linux
 ```
-sh bash zdelpt.sh
+sh zdelpt.sh
 ```
 
 ## Results table
