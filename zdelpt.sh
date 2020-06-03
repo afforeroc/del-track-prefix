@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Script tool that removes the most common track number prefixes for music and sound files"
+echo "For all files:"
 
 # One digit
 echo "Removing prefix: [0-9][space][hyphen][space]"
