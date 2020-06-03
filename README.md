@@ -1,4 +1,4 @@
-# Remtrackprefix
+# Remove track prefix
 Script tool that removes the most common track number prefixes for sound files
 
 ## Run
